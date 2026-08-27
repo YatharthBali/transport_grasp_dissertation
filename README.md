@@ -16,7 +16,7 @@ Key features extracted include maximum grip aperture, time to maximum grip apert
 
 ## Repository Contents
 
-- `main_analysis.R` — full analysis pipeline from raw data import through feature extraction, model fitting, LOPO-CV, and visualisation
+- `dissertation_rcode.R` — full analysis pipeline from raw data import through feature extraction, model fitting, LOPO-CV, and visualisation
 
 ## Notes
 
